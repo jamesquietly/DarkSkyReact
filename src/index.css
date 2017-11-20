@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+.Nav {
+    text-align: center;
+}
+
+.Nav .btn {
+    margin-left: 5px;
+}
+
+.Weather input {
+    width: 75%;
+}
+
+.has-danger input {
+    border-color: red;
+    border-width: 1px;
+}
+
+h2 {
+    border-style: solid;
+    border-width: 4px;
+    border-color: steelblue;
+    background-color: lightblue;
+}
+
+.historic .detail {
+    margin: 0;
+}
+
+.detail {
+    margin-left: 3%;
+    font-size: 25px;
+}
